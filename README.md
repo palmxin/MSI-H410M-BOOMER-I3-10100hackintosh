@@ -1,5 +1,5 @@
 # MSI-H410M-BOOMER-I3-10100hackintosh
-
+opencore 0.6.6
 微星爆破弹H410M-I3-10100黑苹果 
 配置： CPU I3 10100 核显 
 主板：微星H410M爆破弹 
